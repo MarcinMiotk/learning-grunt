@@ -1,2 +1,3 @@
+*.iml
 grunt_helloworld/node_modules/
-
+grunt_helloworld/.idea/
